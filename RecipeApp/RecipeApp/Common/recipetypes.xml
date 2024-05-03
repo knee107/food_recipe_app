@@ -1,0 +1,8 @@
+<recipetypes>
+    <recipe name="Rice"/>
+    <recipe name="Chicken"/>
+    <recipe name="Pork"/>
+    <recipe name="Fish"/>
+    <recipe name="Vegetable"/>
+    <recipe name="Fruit"/>
+</recipetypes>
